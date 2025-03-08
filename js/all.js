@@ -13,3 +13,5 @@ function renderData(){
     const title =document.querySelector('.title');
     title.textContent = ary[0].name;
 };
+
+//處理非同步的方法，是呼叫函式
